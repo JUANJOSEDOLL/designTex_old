@@ -1,0 +1,65 @@
+********** 05/11/2021 0:58:48 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\Desktop\designTex_vacio\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 05/11/2021 0:59:30 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\Desktop\designTex_vacio\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 05/11/2021 1:00:09 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\Desktop\designTex_vacio\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 05/11/2021 16:56:14 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\Desktop\designTex_vacio\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 05/11/2021 16:56:21 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\Desktop\designTex_vacio\EShop\User\CartItemList.aspx.cs:línea 78
+
